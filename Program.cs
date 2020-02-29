@@ -17,7 +17,7 @@ namespace Practica_POO_v02
             while (seguir)
             {
                 Console.Clear();
-                Console.WriteLine("Bienvenidos a el listado de empleados de la empresa ");
+                Console.WriteLine("Bienvenidos ");
                 Console.WriteLine("Elija la opcion que desee: ");
                 Console.WriteLine("1 Datos apartamento ");
                 Console.WriteLine("2 Vender Apartamento ");
